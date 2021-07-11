@@ -15,9 +15,9 @@ author: Heejae Lisette Jun
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Main job:
+    - Data Analytics: "https://beautifuljekyll.com"
+    - Culture and Creative: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
